@@ -1,6 +1,6 @@
 # Password Generator
 
-Link : https://alexisr3099.github.io/password-generator/
+Link : https://alexisr3099.github.io/PasswordGenerator/
 
 Pressing the 'generate password' button will:
 
